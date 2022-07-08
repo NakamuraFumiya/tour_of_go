@@ -5,6 +5,7 @@ import (
 	"math/cmplx"
 )
 
+// 変数宣言
 var (
 	ToBe   bool       = false
 	MaxInt uint64     = 1<<64 - 1
